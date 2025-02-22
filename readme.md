@@ -58,4 +58,4 @@
 
 ## Лицензия
 
-[MIT License](LICENSE)
+[MIT License](license.md)
